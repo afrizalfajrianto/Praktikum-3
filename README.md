@@ -4,7 +4,7 @@
 ![Flowchart](screenshot/flowchart.png)<br>
 ### Buat File Python Terlebih Dahulu
 Langkah pertama buat rumus luas dan keliling lingkaran<br>
-Luas = pi x r x r
+Luas = pi x r x r<br>
 Keliling = 2 x pi x r<br>
 ikuti code python seperti dibawah ini<br>
 ![luas dan keliling lingkaran](screenshot/coding.png)<br>
