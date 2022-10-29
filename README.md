@@ -1,5 +1,5 @@
 # Praktikum-3
-### Membuat Program Menghitung Luas dan Keliling Lingkaran
+## Membuat Program Menghitung Luas dan Keliling Lingkaran
 ### Flowchart Luas dan Keliling Lingkaran
 ![Flowchart](screenshot/flowchart.png)<br>
 ### Buat File Python Terlebih Dahulu
